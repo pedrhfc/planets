@@ -1,0 +1,28 @@
+[
+  {
+    "label": "Mars",
+    "views": 270,
+    "uri": "https://i.dlpng.com/static/png/7096962_preview.png"
+  },
+  {
+    "label": "Jupiter",
+    "views": 92,
+    "uri": "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/jupiter.png"
+  },
+  {
+    "isBanner": true,
+    "label": "Our Planet Earth",
+    "views": 283,
+    "uri": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  },
+  {
+    "label": "Pluto",
+    "views": 283,
+    "uri": "https://upload.wikimedia.org/wikipedia/commons/9/94/Pluto-transparent.png"
+  },
+  {
+    "label": "Uranus",
+    "views": 483,
+    "uri": "https://www.solarsystemscope.com/spacepedia/images/handbook/renders/uranus.png"
+  }
+]
